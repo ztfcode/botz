@@ -1,1 +1,2 @@
-web: npm audit fix,worker: node index.js
+web: npm start
+worker: node index.js
